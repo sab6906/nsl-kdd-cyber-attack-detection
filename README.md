@@ -47,7 +47,6 @@ Beyond model accuracy, this project treats model selection as a business decisio
 
 ## Repository Contents
 
-- `dissertation.pdf` — full write-up (literature review, methodology, results, discussion)
 - `nsl_kdd_analysis.R` — complete R code: cleaning, visualisation, model training, threshold tuning, cost optimisation
 
 ## Limitations & Future Work
